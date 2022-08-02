@@ -1,7 +1,9 @@
 ### Hello there 👋
 
-- ⌨️ NeoVim is my current workhorse.
-- 🐠 [fish](https://fishshell.com/) is the superior interactive shell (IMO).
-- 🖥️ [i3](https://manjaro.org/downloads/community/i3/) lover, [yabai](https://github.com/koekeishiya/yabai) appreciator. Tiles > Windows.
+- ⌨️ Keyboard good, mouse bad.
+- 🐠 [fish](https://fishshell.com/) is the superior _interactive_ shell.
+- 🖥️ Tiles > Windows. Get yourself a window manager that doesn't stack and lets you do config over socket/cli 👌
+  - [bspwm](https://github.com/baskerville/bspwm) (linux)
+  - [yabai](https://github.com/koekeishiya/yabai) (mac)
 
 ## ⛔ I am NOT open to new job opportunities. Thank you.
