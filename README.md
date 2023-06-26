@@ -1,9 +1,7 @@
-### Hello there 👋
+### $\huge\textrm{\textcolor{SkyBlue}{Hello there}}$ 👋
 
-- ⌨️ Keyboard good, mouse bad.
+- ⌨️ $\texttt{\textcolor{LimeGreen}{Keyboard good, mouse bad.}}$
 - 🐠 [fish](https://fishshell.com/) is the superior _interactive_ shell.
-- 🖥️ Tiles > Windows. Get yourself a window manager that doesn't stack and lets you do config over socket/cli 👌
+- 🖥️ Tiles > Windows. Get yourself a window manager that doesn't stack (and lets you do config over socket/cli) 👌
   - [bspwm](https://github.com/baskerville/bspwm) (linux)
   - [yabai](https://github.com/koekeishiya/yabai) (mac)
-
-## ⛔ I am NOT open to new job opportunities. Thank you.
